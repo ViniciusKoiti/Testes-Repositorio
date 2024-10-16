@@ -1,0 +1,3 @@
+public enum Direcao {
+    FRENTE, ESQUERDA, DIREITA, PARADO, NAO_DEFINIDO
+}
